@@ -4,8 +4,8 @@ Costa Mesa, CA 92627
 nicholas.a.bernstein@gmail.com  
 [GitHub: @nabernstein](https://github.com/nabernstein)  
 (949) 554-5168  
-***
 ## Objective
+Seeking a position to implement the mathematical and coding skills that I have gained through my educational career.
 
 ## Education
 **California State University Fullerton** - *Fullerton, CA*  
