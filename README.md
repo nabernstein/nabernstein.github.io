@@ -3,7 +3,11 @@
 Costa Mesa, CA 92627  
 nicholas.a.bernstein@gmail.com  
 [GitHub: @nabernstein](https://github.com/nabernstein)  
+<<<<<<< HEAD
 (949) 554-5168  
+=======
+(949) 554-5168 
+>>>>>>> 8e31d0a1fb867016d5b2b34de91af597439a8eee
 ## Objective
 Seeking a position to implement the mathematical and coding skills that I have gained through my educational career.
 
