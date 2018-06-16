@@ -26,8 +26,8 @@ Seeking a position to implement the mathematical and coding skills that I have g
 
 *Barista* - February 2011 to May 2012 and November 2014 to June 2015  
   * Developed time management skills crucial for work in a fast-paced environment.
-  * Utilized keen memory skils to recall drink preferences of repeat customers to enhance experience.
-  * Relayed clear and concice instructions to other team members to accomplish tasks together.  
+  * Utilized keen memory skills to recall drink preferences of repeat customers to enhance experience.
+  * Relayed clear and concise instructions to other team members to accomplish tasks together.  
 
 **Kelly Services: HealthNet Insurance** - *Huntington Beach, CA*  
 *MMR Lead Coordinator for 2015 HEDIS Project* - January 2015 to May 2015  
@@ -48,6 +48,6 @@ Seeking a position to implement the mathematical and coding skills that I have g
   * Analyzed and rectified issues regarding engineering requests and QA test configuration.
   * Configured and maintained 15 PC workstations.  
 
-## Aditional Training and Skills
+## Additional Training and Skills
   * Programming Knowledge: C/C++, C#, Java, HTML, Python, Perl
-  * Development Tool Experience: Microsoft Visual Studio and Unity3D 
+  * Development Tool Experience: Microsoft Visual Studio and Unity3D
