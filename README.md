@@ -48,5 +48,10 @@ nicholas.a.bernstein@gmail.com
   * Configured and maintained 15 PC workstations.  
 
 ## Aditional Training and Skills
+<<<<<<< HEAD
   * Programming Knowledge: C/C++, C#, Java, HTML, Python, and Perl
   * Development Tool Experience: Microsoft Visual Studio and Unity3D 
+=======
+  * Programming Knowledge: C/C++, C#, Java, HTML, Python, Perl
+  * Development Tool Experience: Microsoft Visual Studio and Unity3D 
+>>>>>>> 2f0ae9c13a3bfc8ee75a42538aff8156744741d3
