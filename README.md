@@ -49,5 +49,5 @@ Seeking a position to implement the mathematical and coding skills that I have g
   * Configured and maintained 15 PC workstations.  
 
 ## Additional Training and Skills
-  * Programming Knowledge: C/C++, C#, Java, HTML, Python, Perl
+  * Programming Knowledge: C/C++, C#, Java, HTML, Python, Perl, LaTeX
   * Development Tool Experience: Microsoft Visual Studio and Unity3D
